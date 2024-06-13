@@ -17,5 +17,5 @@ Explore the live demo of the Twitter Clone [here](https://www.linkedin.com/posts
 
 - **Chirag Arya**
 - **Email:** chiragarya5678@gmail.com
-- **GitHub:** [github.com/yourusername](https://github.com/chiragarya67)
+- **GitHub:** [github.com](https://github.com/chiragarya67)
 
